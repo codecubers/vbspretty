@@ -1,6 +1,6 @@
 {
   "name": "@vbsnext/vbs-pretty",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "A VBScript parser and beautifier",
   "main": "./src/vbspretty",
   "scripts": {
